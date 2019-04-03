@@ -1,0 +1,4 @@
+#Wed Apr 03 09:19:29 SGT 2019
+base.0=C\:\\Users\\TARUC\\Desktop\\WalkMyAndroid-Starter\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex
